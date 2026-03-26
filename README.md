@@ -13,7 +13,7 @@ This project focuses on identifying and analyzing phishing email threats. Three 
 
 ### Sample 1: PayPal Account Scam
 
-**Classification:** 🔴 Phishing (High Risk)
+**Classification:** Phishing (High Risk)
 
 **Sender Domain:** `security@paypal-verify.com` – This is fraudulent. The legitimate domain is `@paypal.com`.
 
@@ -34,7 +34,7 @@ This project focuses on identifying and analyzing phishing email threats. Three 
 
 ### Sample 2: CEO Fraud / Wire Transfer Scam
 
-**Classification:** 🔴 Phishing (High Risk)
+**Classification:** Phishing (High Risk)
 
 **Sender Domain:** `james.carter@company-domain-support.com` – Impersonates a company executive using a fake domain.
 
