@@ -1,6 +1,6 @@
 # Phishing Email Detection & Awareness System
 
-**Task:** FUTURE_CS_02  
+**Task 2:** FUTURE_CS_02  
 ---
 
 ## Project Overview
